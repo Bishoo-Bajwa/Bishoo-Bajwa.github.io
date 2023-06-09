@@ -2,25 +2,46 @@ body, html {
     height: 100%;
 }
 header{
-    background-color: blue;
-    height: 50px;
+    height: 65px;
     overflow: hidden;
 }
-button{
-    background-color: black;
-    color: blue;
+.button{
+    background-color: rgb(30, 0, 255);
+    color: rgb(103, 161, 255);
     font-size: 20px;
     cursor: pointer;
+    border-radius: 15%;
+    margin-bottom: 100px;
+    margin-top: 15px;
+    margin-left: 10px;
 }
 .logo{
-    height: 40px;
-    margin-top: 5px;
-    margin-bottom: -12px;
+    height: 125px;
+    margin-top: -35px;
+    margin-bottom: -74px;
 }
 body{
-    background-image: url(/documents/background\ images\ \(4\).png);
+    background-image: url(/documents/background\ images\ \(8\).png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
     background-position: center;}
+
+p{
+    font-size: 80px;
+    color:white;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.CS{
+    font-size: 20px;
+    color: red;
+    
+}
+.CSs{
+    border-radius: 7%;
+    background-color: rgb(103, 161, 255);
+    margin-left: 20px;
+}
+
 
